@@ -15,14 +15,14 @@ de basis realizatie van dit project is:
 4. Kan vechten met enemy's. 
 5. Kan zich defenden en weg rennen van een Enemy.
 
--Enemy
+- Enemy
 1. Worden regelmatig random gespwaned.
 2. Er zijn verschillende Soorten Enemy's. 
 3. Elke soort enemy heeft een unieke aanval/eigenschap.
 4. Kunnen Loot droppen. 
 5. Hebben een kans om je te volgen. 
 
--Map 
+- Map 
 1. Er kan een waardevolle map gegenereert worden. 
 2. De map bestaad uit meerdere Biomes. 
 3. Er is een verhaal lijn in de map. 
